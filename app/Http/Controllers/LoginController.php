@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\Auth;
 
 use Socialite;
+use App\Http\Controllers\Controller;
 
 class LoginController extends Controller
 {
